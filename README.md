@@ -17,7 +17,8 @@
 <table>
 <tr>
   <td width="200" align="center">
-    <img src="https://skillicons.dev/icons?i=pandas" width="100" height="100" alt="pandas" />
+    <img src="https://skillicons.dev/icons?i=pandas" width="100" alt="pandas" />
+
     <br><strong>ML, LLM, RAG</strong>
   </td>
   <td align="left">
