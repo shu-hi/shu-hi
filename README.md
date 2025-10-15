@@ -18,7 +18,6 @@
 <tr>
   <td width="200" align="center">
     <img src="https://skillicons.dev/icons?i=pandas" width="100" alt="pandas" />
-
     <br><strong>ML, LLM, RAG</strong>
   </td>
   <td align="left">
