@@ -37,13 +37,10 @@
 </div>
 
 ## 📊 **GitHub Analytics**
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <p align="center">
+    <img src="https://github-contributions-api.deno.dev/shu-hi.svg" />
+  </p>
 </div>
 
 ## 🛠️ **Tech Stack**
@@ -52,36 +49,28 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### ⚛️ **Frontend Development**
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
-
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+### 💻 **Backend Development**
+<img src="https://skillicons.dev/icons?i=php,laravel,fastapi" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+### 🗄️ **Database**
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+### 🔧 **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 🎨 **Design**
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
 
 </td>
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies (Commits)**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
 
 ## 💭 **Random Dev Quote**
 
@@ -98,5 +87,5 @@
   
   **⭐ From [user](https://github.com/user) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
+  *"Codes over 10,000 lines must go extinct"*
 </div>
