@@ -34,13 +34,6 @@
 
 </div>
 
-## 📊 **GitHub Analytics**
-<div align="center">
-  <p align="center">
-    <img src="https://github-contributions-api.deno.dev/shu-hi.svg" />
-  </p>
-</div>
-
 ## 🛠️ **Tech Stack**
 
 <table align="center">
