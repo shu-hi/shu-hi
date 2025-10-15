@@ -16,29 +16,31 @@
 
 <table>
 <tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=pandas" width="100" height="100" alt="pandas" />
-<br><strong>ML,LLM,RAG</strong>
-</td>
-<td width="400" align="left">
+  <td width="200" align="center">
+    <img src="https://skillicons.dev/icons?i=pandas" width="100" height="100" alt="pandas" />
+    <br><strong>ML, LLM, RAG</strong>
+  </td>
+  <td align="left">
 
 ### 👋 **Hi, I'm Ush!**
-🚀 **saas Developer** passionate about analytics  
+🚀 **SaaS Developer** passionate about analytics  
 🌍 **Location:** Japan 🇯🇵  
 ☕ **Powered by:** sugar  
 🎯 **Goal:** better society for children  
 
-</td>
+  </td>
 </tr>
 </table>
 
-</div>
+---
 
 ## 🛠️ **Tech Stack**
 
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
+
+  <!-- Frontend -->
+  <td width="33%" align="center" valign="top">
 
 ### ⚛️ **Frontend Development**
 <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
@@ -46,8 +48,10 @@
 ### 💻 **Backend Development**
 <img src="https://skillicons.dev/icons?i=php,laravel,fastapi" />
 
-</td>
-<td width="50%" align="center" valign="top">
+  </td>
+
+  <!-- Database / Tools / Design -->
+  <td width="33%" align="center" valign="top">
 
 ### 🗄️ **Database**
 <img src="https://skillicons.dev/icons?i=mysql" />
@@ -57,13 +61,17 @@
 
 ### 🎨 **Design**
 <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</td>
-<td width="50%" align="center" valign="top">
-### 🧠 LLM Fine-tuning Tools
+
+  </td>
+
+  <!-- LLM Tools -->
+  <td width="33%" align="center" valign="top">
+
+### 🧠 **LLM Fine-tuning Tools**
 <img src="https://skillicons.dev/icons?i=python,pytorch,pandas,huggingface" />
 
+  </td>
 
-</td>
 </tr>
 </table>
 
