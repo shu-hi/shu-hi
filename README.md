@@ -57,6 +57,8 @@
 
 ### 🎨 **Design**
 <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</td>
+<td width="50%" align="center" valign="top">
 ### 🧠 LLM Fine-tuning Tools
 <img src="https://skillicons.dev/icons?i=python,pytorch,pandas,huggingface" />
 
