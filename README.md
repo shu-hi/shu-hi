@@ -74,9 +74,6 @@
 
 </tr>
 </table>
-
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
@@ -84,3 +81,25 @@
   
   *"Codes over 10,000 lines must go extinct"*
 </div>
+プライバシーポリシー
+
+【アプリ概要】
+本アプリはsns_automationです。自動投稿のために機能します。
+
+【収集するデータ】
+- Instagram プロフィール情報
+- 投稿内容
+- フォロワーリスト
+
+【データの使用目的】
+ユーザーが投稿及びその効果測定のために必要です。
+
+【データ保護】
+すべてのデータはSSLで暗号化され、セキュアに保管されます。
+
+【データ削除】
+ユーザーはいつでも以下のメールでデータ削除を要求できます：
+shwindwalker@gmial.com
+
+【お問い合わせ】
+プライバシーについてのご質問：shwindwalker@gmial.com
